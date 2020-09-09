@@ -9,8 +9,10 @@ import './place.css';
 
 
 const Basket = ({ match: { params: { areaId, itemId }}, foodAreas, order }) => {
+  // eslint-disable-next-line
   const [ faster, setFaster ] = useState((localStorage.getItem('faster')  === null ? true :  ('true' == localStorage.getItem('faster'))));
   const [ time, setTime ] = useState(localStorage.getItem('time') || '');
+  // eslint-disable-next-line
   const [ selfService, setSelfService ] = useState(( localStorage.getItem('selfService') === null ? false : ('true' == localStorage.getItem('selfService'))));
   const area = foodAreas.filter(area => area.id === areaId)[0];
   const item = area.items.filter(item => item.id === itemId)[0];
