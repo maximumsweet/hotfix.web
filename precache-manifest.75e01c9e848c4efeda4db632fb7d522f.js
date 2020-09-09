@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d30d0e3b3ad863c29dbec7421256445b",
+    "revision": "d948f0a8d2139863d481b59f5237f1c7",
     "url": "/hotfix.web/index.html"
   },
   {
-    "revision": "df8627b5b6e830cd0c70",
+    "revision": "161c5f36c0feedeccf83",
     "url": "/hotfix.web/static/css/main.a1107254.chunk.css"
   },
   {
-    "revision": "3653dceec2bb1395e4ce",
-    "url": "/hotfix.web/static/js/2.84911def.chunk.js"
+    "revision": "e37eea6414c80890af2c",
+    "url": "/hotfix.web/static/js/2.22043c65.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/hotfix.web/static/js/2.84911def.chunk.js.LICENSE.txt"
+    "url": "/hotfix.web/static/js/2.22043c65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df8627b5b6e830cd0c70",
-    "url": "/hotfix.web/static/js/main.3e86835e.chunk.js"
+    "revision": "161c5f36c0feedeccf83",
+    "url": "/hotfix.web/static/js/main.b63610ae.chunk.js"
   },
   {
-    "revision": "99fca46330e73d0a6953",
-    "url": "/hotfix.web/static/js/runtime-main.e83ad6de.js"
+    "revision": "014481e91468de18e507",
+    "url": "/hotfix.web/static/js/runtime-main.d47562a4.js"
   },
   {
     "revision": "dfc54362fc2b0f7b99a4038b87dd9e64",
